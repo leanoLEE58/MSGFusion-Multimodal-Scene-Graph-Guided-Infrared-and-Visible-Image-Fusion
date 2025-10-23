@@ -309,8 +309,8 @@ Where:
 #### Loss Function Ablation
 
 <div align="center">
-
-<img src="https://github.com/user-attachments/assets/533dceaf-9ec2-40fc-9060-544b611c07e2" width="95%" alt="Loss Ablation Visual"/>
+  
+<img width="404" height="179" alt="Image" src="https://github.com/user-attachments/assets/61a0f662-530a-4132-9725-bc6f26a88ad3" />
 
 **Figure 6**: Impact of local contrast regularization **L<sub>ctr</sub>**. Red boxes show enhanced edge sharpness (pedestrian contours, vehicle wheels) after adding L<sub>ctr</sub>.
 
@@ -370,8 +370,7 @@ Where:
 #### Medical Image Fusion Generalization
 
 <div align="center">
-
-<img src="https://github.com/user-attachments/assets/1155e469-9ec2-40fc-9060-544b611c07e2" width="90%" alt="Medical Fusion"/>
+<img src="https://github.com/user-attachments/assets/533dceaf-9ec2-40fc-9060-544b611c07e2" width="95%" alt="Loss Ablation Visual"/>
 
 **Figure 9**: MRI-PET fusion on Harvard Medical dataset (zero-shot transfer). Our method preserves **cortical structures** (MRI) while highlighting **metabolic activity** (PET) without retraining.
 
