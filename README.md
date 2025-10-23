@@ -392,50 +392,6 @@ Where:
 
 ### 💻 Code (Coming Soon)
 
-**Repository Structure** (Planned):
-
-```
-MSGFusion/
-├── README.md                          # This file
-├── requirements.txt                   # Python dependencies
-├── setup.py                           # Installation script
-│
-├── configs/
-│   ├── msgfusion_llvip.yaml          # LLVIP training config
-│   ├── msgfusion_tno.yaml            # TNO testing config
-│   └── msgfusion_roadscene.yaml      # RoadScene testing config
-│
-├── models/
-│   ├── __init__.py
-│   ├── encoder.py                     # DenseFuse encoder
-│   ├── textual_scene_graph.py        # TSG module
-│   ├── visual_scene_graph.py         # VSG module (Faster R-CNN + GNN)
-│   ├── hierarchical_aggregation.py   # MSGHA module
-│   ├── fusion_module.py              # Scene graph-driven fusion
-│   └── msgfusion.py                  # Main model
-│
-├── data/
-│   ├── dataset.py                    # LLVIP/TNO/RoadScene dataloaders
-│   ├── transforms.py                 # Augmentation pipeline
-│   └── scene_graph_parser.py        # Text-to-graph conversion
-│
-├── scripts/
-│   ├── train.py                      # Training script
-│   ├── test.py                       # Evaluation script
-│   ├── inference.py                  # Single-pair fusion
-│   └── download_pretrained.sh       # Download checkpoints
-│
-├── utils/
-│   ├── metrics.py                    # Qabf/SSIM/VIF/AG/SF/MI/PSNR
-│   ├── loss.py                       # Lrec + Lctr
-│   └── visualize.py                  # Result visualization
-│
-└── pretrained/
-    └── msgfusion_llvip.pth           # Pretrained weights (Coming Soon)
-```
-
----
-
 ### 📦 Installation (Preview)
 
 ```bash
