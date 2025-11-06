@@ -5,7 +5,6 @@
 [![arXiv](https://img.shields.io/badge/arXiv-2509.12901-b31b1b.svg)](https://arxiv.org/abs/2509.12901)
 [![Journal](https://img.shields.io/badge/Journal-TMM%20Under%20Review-blue)](https://ieeexplore.ieee.org/xpl/RecentIssue.jsp?punumber=6046)
 [![Project](https://img.shields.io/badge/Project-Page-green)](https://github.com/YourUsername/MSGFusion)
-[![License](https://img.shields.io/badge/License-MIT-yellow.svg)](LICENSE)
 
 **IEEE Transactions on Multimedia (TMM) - Under Review**
 
