@@ -21,7 +21,7 @@
 
 **First framework to deeply couple textual conceptual semantics with visual attributes and spatial relationships from infrared and visible images, enabling fusion that simultaneously preserves high-level semantics and low-level details.**
 
-[📄 Paper](#) · [💻 Code (Coming Soon)](#-code-coming-soon) · [🎬 Demo](#) · [📊 Results](#-experimental-results)
+[📄 Paper](#) · [💻 Code (Coming Soon)](#-code-coming-soon) · [📊 Results](#-experimental-results)
 
 </div>
 
