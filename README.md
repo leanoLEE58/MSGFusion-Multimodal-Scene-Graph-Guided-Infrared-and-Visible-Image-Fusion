@@ -521,12 +521,6 @@ If you find this work useful for your research, please cite:
 
 ## 🙏 Acknowledgments
 
-### Funding Support
-
-This work was supported by:
-- National Natural Science Foundation of China (Grant No. XXXXXXX)
-- Shandong Provincial Natural Science Foundation (Grant No. XXXXXXX)
-- Ocean University of China Research Fund
 
 ### Technical Acknowledgments
 
@@ -547,13 +541,6 @@ We compared with the following state-of-the-art methods:
 
 ## 📧 Contact
 
-**Corresponding Author**: Haiyong Zheng  
-📧 Email: zhenghaiyong@ouc.edu.cn  
-🏫 Affiliation: College of Computer Science and Technology, Ocean University of China
-
-**First Authors**:  
-Guihui Li (guihuilee@stu.ouc.edu.cn)  
-Bowei Dong (dbw@stu.ouc.edu.cn)
 
 **For questions**:
 - 🐛 **Bug Reports**: [GitHub Issues](https://github.com/YourUsername/MSGFusion/issues) (Available Soon)
@@ -571,14 +558,9 @@ Bowei Dong (dbw@stu.ouc.edu.cn)
 
 ---
 
-**Advancing Infrared-Visible Image Fusion with Structured Semantic Guidance**
-
-**Last Updated**: January 2025 | **Status**: Under Review at IEEE TMM
-
 [⬆️ Back to Top](#msgfusion-multimodal-scene-graph-guided-infrared-and-visible-image-fusion)
 
 </div>
-
 ---
 
 ## 📌 Related Work
