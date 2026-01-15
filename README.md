@@ -6,7 +6,7 @@
 [![Project](https://img.shields.io/badge/Project-Page-green)](https://github.com/YourUsername/MSGFusion)
 
 
-[Bowei Dong](mailto:dbw@stu.ouc.edu.cn)<sup>1*</sup>, [Guihui Li](mailto:guihuilee@stu.ouc.edu.cn)<sup>1†</sup>, [Kaizhi Dong](mailto:dongkaizhi@stu.ouc.edu.cn)<sup>2</sup>, [Jiayi Li](mailto:jiayilee@stu.ouc.edu.cn)<sup>1</sup>, 
+[Bowei Dong](mailto:dbw@stu.ouc.edu.cn)<sup>1*</sup>, [Guihui Li](mailto:guihuilee@stu.ouc.edu.cn)<sup>2†</sup>, [Kaizhi Dong](mailto:dongkaizhi@stu.ouc.edu.cn)<sup>2</sup>, [Jiayi Li](mailto:jiayilee@stu.ouc.edu.cn)<sup>2</sup>, 
 
 <sup>1</sup>College of Computer Science and Technology, Ocean University of China  
 <sup>2</sup>College of Electronic Engineering, Ocean University of China
